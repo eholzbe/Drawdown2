@@ -5,4 +5,4 @@ scipy==1.4.1
 pint
 hide_code==0.5.6
 jupyter_contrib_nbextensions
-traitlets==5.1.5
+traitlets==5.1.0
